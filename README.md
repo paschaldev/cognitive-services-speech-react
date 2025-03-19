@@ -1,1 +1,1 @@
-# Simple Microsoft Cognitive Speech Service SDK with React
+# Simple Microsoft Cognitive Speech Service with React
