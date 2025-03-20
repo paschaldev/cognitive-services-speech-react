@@ -1,0 +1,41 @@
+{
+	"name": "@paschaldev/cognitive-services-speech-react",
+	"version": "0.1.0",
+  "main": "dist/index.js",
+	"description": "React bindings for the Microsoft Cognitive Services Speech SDK",
+	"scripts": {
+		"build": "tsc"
+	},
+	"dependencies": {
+		"microsoft-cognitiveservices-speech-sdk": "^1.42.0"
+	},
+	"peerDependencies": {
+		"react": "^16.0.0"
+	},
+	"devDependencies": {
+		"@types/react": "^19.0.12",
+		"typescript": "^5.0.0"
+	},
+	"files": ["dist"],
+	"keywords": [
+		"realtime-transcription",
+		"cognitive-services",
+		"azure",
+		"realtime-translation",
+		"speech",
+		"react",
+		"speech-recognition",
+		"speech-to-text",
+		"microsoft-cognitiveservices-speech-sdk"
+	],
+	"author": "Paschal Ezeugwu <paschaldev@protonmail.com>",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/paschaldev/cognitive-services-speech-react.git"
+	},
+	"bugs": {
+		"url": "https://github.com/paschaldev/cognitive-services-speech-react/issues"
+	},
+	"homepage": "https://github.com/paschaldev/cognitive-services-speech-react#readme"
+}
